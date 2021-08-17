@@ -4,16 +4,15 @@
      src="https://github.com/nazianafis/nazianafis/blob/main/img/nn.png"
   />
 
-### Nazia Nafis
+### NAZIA NAFIS
 ###### Machine Learning | Data Science | Technical Writing
 
 ---
+
 <br>
 
-### Hi there!
-
 I’m a student from New Delhi, India freelancing as a data scientist and working as a technical writer for multiple online publications. Currently I am learning Machine Learning from a couple of online sources.
-I’m looking to collaborate on ML projects that have an impact on human societies, particularly in the healthcare sector.
+I’m looking to collaborate on ML projects that have a positive, real-world impact on human lives, particularly in the healthcare sector.
 
 <a href="https://www.linkedin.com/in/nazianafis/">
   <img
