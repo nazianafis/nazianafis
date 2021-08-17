@@ -1,16 +1,23 @@
-### Hi there 👋
+<img
+     align="left"
+     alt="Nazia-Nafis-logo"
+     src="https://github.com/nazianafis/nazianafis/blob/main/img/nn.png"
+  />
 
-<!--
-**nazianafis/nazianafis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Nazia Nafis
+###### Machine Learning | Data Science | Technical Writing
 
-Here are some ideas to get you started:
+---
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there!
+
+I’m a student from New Delhi, India freelancing as a data scientist and working as a technical writer for multiple online publications. Currently I am learning Machine Learning from a couple of online sources.
+I’m looking to collaborate on ML projects that have an impact on human societies, particularly in the healthcare sector.
+
+<a href="https://www.linkedin.com/in/nazianafis/">
+  <img
+    alt="Linkedin"
+    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
