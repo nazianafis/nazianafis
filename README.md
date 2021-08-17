@@ -11,8 +11,10 @@
 
 <br>
 
-I’m a student from New Delhi, India freelancing as a data scientist and working as a technical writer for multiple online publications. Currently I am learning Machine Learning from a couple of online sources.
+I’m a student from New Delhi, India freelancing as a data scientist and working as a technical writer for a couple of online publications. Currently I am learning Machine Learning from some online sources.
 I’m looking to collaborate on ML projects that have a positive, real-world impact on human lives, particularly in the healthcare sector.
+   
+Let's connect!
 
 <a href="https://www.linkedin.com/in/nazianafis/">
   <img
