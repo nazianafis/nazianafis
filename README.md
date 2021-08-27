@@ -5,15 +5,14 @@
   />
 
 ### NAZIA NAFIS
-###### Machine Learning | Data Science | Technical Writing
+###### Machine Learning | Data Science | Writing
 
 ---
 
 <br>
 
-I’m a student from New Delhi, India freelancing as a data scientist and working as a technical writer for a couple of online publications. Currently I am learning Machine Learning from some online sources.
-I’m looking to collaborate on ML projects that have a positive, real-world impact on human lives, particularly in the healthcare sector.
-   
+I’m a Masters student from India, currently specializing in AI. I am passionate about machine learning, especially about its applications in healthcare. I'm looking to work on internships/projects in the domain - if you have any leads, let me know!
+
 Let's connect!
 
 <a href="https://www.linkedin.com/in/nazianafis/">
