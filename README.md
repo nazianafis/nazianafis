@@ -11,7 +11,7 @@
 
 <br>
 
-Hi! I’m a Masters student from India, currently specializing in AI. I am passionate about machine learning, especially about its applications in healthcare. I'm looking to work on internships/projects in the ML domain - if you have any leads, let me know!
+Hi! I’m a graduate student from India, currently pursuing M.Tech in Computer Science. I am passionate about machine learning, especially in its applications in healthcare. Currently, I'm seeking internship opportunities/projects to collaborate on in ML.
 
 Let's connect!
 
