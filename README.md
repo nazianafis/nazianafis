@@ -5,7 +5,7 @@
   />
 
 ### NAZIA NAFIS
-###### Machine Learning | Data Science | Writing
+###### Machine Learning | Data Science
 
 ---
 
