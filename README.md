@@ -5,13 +5,13 @@
   />
 
 ### NAZIA NAFIS
-###### Machine Learning | Data Science
+###### ML Engineer | Data Enthusiast
 
 ---
 
 <br>
 
-Hi! I’m a graduate student from India, currently pursuing M.Tech in Computer Science. I am passionate about machine learning, especially in its applications in healthcare. Currently, I'm seeking internship opportunities/projects to collaborate on in ML.
+Hi! I’m a graduate student from India. I am passionate about machine learning and all things AI. In my leisure time I love writing little blogs(📝[Medium](https://nazianafis.medium.com/)), listening to podcasts(🎙[Spotify](https://open.spotify.com/show/1APpUKebKOXJZjoCaCfoVk)), and trying my hand at nature and landscape photography(📷[Instagram](https://instagram.com/nazianafis)).
 
 Let's connect!
 
