@@ -5,7 +5,7 @@
   />
 
 ### NAZIA NAFIS
-###### ML Engineer | Data Enthusiast
+###### Graduate student | ML Enthusiast
 
 ---
 
