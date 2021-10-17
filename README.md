@@ -19,10 +19,6 @@
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=nazianafis)
-
-<br>
-
 Let's connect!
 
 <a href="https://www.linkedin.com/in/nazianafis/">
