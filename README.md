@@ -19,9 +19,7 @@
 
 <br>
 
-
-  ![Nazia's github stats](https://github-readme-stats.vercel.app/api?username=nazianafis)
-
+![](https://github-readme-stats.vercel.app/api?username=nazianafis)
 
 <br>
 
