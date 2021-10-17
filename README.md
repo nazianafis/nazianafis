@@ -11,7 +11,7 @@
 
 <br>
 
-Hi! I’m a graduate student from India. I am passionate about machine learning and all things AI. In my leisure time I love listening to podcasts (🎙[Spotify](https://open.spotify.com/show/1APpUKebKOXJZjoCaCfoVk)) and trying my hand at nature and landscape photography (📷[Instagram](https://instagram.com/nazianafis)).
+Hi! I’m currently pursuing M.Tech in Computer Science, with a specialization in Artificial Intelligence. I am passionate about machine learning and all things AI. In my leisure time I love listening to podcasts (🎙[Spotify](https://open.spotify.com/show/1APpUKebKOXJZjoCaCfoVk)) and trying my hand at nature and landscape photography (📷[Instagram](https://instagram.com/nazianafis)).
 
 Let's connect!
 
