@@ -11,7 +11,19 @@
 
 <br>
 
-Hi! I’m currently pursuing M.Tech in Computer Science, with a specialization in Artificial Intelligence. I am passionate about machine learning and all things AI. In my leisure time I love listening to podcasts (🎙[Spotify](https://open.spotify.com/show/1APpUKebKOXJZjoCaCfoVk)) and trying my hand at nature and landscape photography (📷[Instagram](https://instagram.com/nazianafis)).
+👋🏼 Hi! I’m currently pursuing M.Tech in Computer Science, with a specialization in Artificial Intelligence.
+
+🤖 I am passionate about machine learning and all things AI.
+
+😍 I also love listening to podcasts (🎙[Spotify](https://open.spotify.com/show/1APpUKebKOXJZjoCaCfoVk)) and trying my hand at photography (📷[Instagram](https://instagram.com/nazianafis)).
+
+<br>
+
+
+  ![Nazia's github stats](https://github-readme-stats.vercel.app/api?username=nazianafis)
+
+
+<br>
 
 Let's connect!
 
