@@ -5,7 +5,7 @@
   />
 
 ### NAZIA NAFIS
-###### Graduate student | ML Enthusiast
+###### Graduate Student | ML Enthusiast
 
 ---
 
