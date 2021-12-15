@@ -8,7 +8,7 @@
 <!--###### Machine Learning | Deep Learning>
 
 <!----->
-
+<br>
 👋🏼 Hi! I’m a graduate student, currently pursuing M.Tech in Computer Science with specialization in Artificial Intelligence.
 
 🎨 I am passionate about visual computing (computer graphics, computer vision, virtual reality, human-computer interactions). I'm also broadly interested in the research on interpretability/explainability of deep neural networks.
