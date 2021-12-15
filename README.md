@@ -1,19 +1,17 @@
-<img
+<!--img
      align="left"
      alt="Nazia-Nafis-logo"
      src="https://github.com/nazianafis/nazianafis/blob/main/img/nn.png"
   />
 
-### NAZIA NAFIS
-###### Machine Learning | Deep Learning
+<!--### NAZIA NAFIS>
+<!--###### Machine Learning | Deep Learning>
 
----
-
-<br>
+<!----->
 
 👋🏼 Hi! I’m a graduate student, currently pursuing M.Tech in Computer Science with specialization in Artificial Intelligence.
 
-🤖 I am passionate about machine learning and all things AI.
+🎨 I am passionate about visual computing (computer graphics, computer vision, virtual reality, human-computer interactions). I'm also broadly interested in the research on interpretability/explainability of deep neural networks.
 
 😍 I also love listening to podcasts (🎙[Spotify](https://open.spotify.com/show/1APpUKebKOXJZjoCaCfoVk)) and trying my hand at photography (📷[Instagram](https://instagram.com/nazianafis)).
 
