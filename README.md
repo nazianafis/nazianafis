@@ -1,14 +1,3 @@
-<!--img
-     align="left"
-     alt="Nazia-Nafis-logo"
-     src="https://github.com/nazianafis/nazianafis/blob/main/img/nn.png"
-  />
-
-<!--### NAZIA NAFIS>
-<!--###### Machine Learning | Deep Learning>
-
-<!----->
-
 <br>
 
 👋🏼 Hi! I’m a graduate student, currently pursuing M.Tech in Computer Science with specialization in Artificial Intelligence. 
