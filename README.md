@@ -5,13 +5,13 @@
   />
 
 ### NAZIA NAFIS
-###### Graduate Student | ML Enthusiast
+###### Machine Learning | Deep Learning
 
 ---
 
 <br>
 
-👋🏼 Hi! I’m currently pursuing M.Tech in Computer Science, with a specialization in Artificial Intelligence.
+👋🏼 Hi! I’m a graduate student, currently pursuing M.Tech in Computer Science with specialization in Artificial Intelligence.
 
 🤖 I am passionate about machine learning and all things AI.
 
