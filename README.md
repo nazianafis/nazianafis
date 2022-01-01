@@ -13,3 +13,7 @@ Let's connect!
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
 </a>
+
+<br>
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=nazianafis&count_private=true&show_icons=true&theme=radical&border_radius=0&layout=compact) -->
