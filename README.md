@@ -17,3 +17,9 @@ Let's connect!
 <br>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=nazianafis&count_private=true&show_icons=true&theme=radical&border_radius=0&layout=compact) -->
+
+<!-- ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=nazianafis&theme=github) -->
+
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=nazianafis&column=7&theme=onedark" /> -->
+
+
