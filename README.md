@@ -8,7 +8,8 @@
 Let's connect!
 
 <a href="https://linkedin.com/in/nazianafis">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="https://nazianafis.medium.com">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
+
+<!-- <a href="https://nazianafis.medium.com">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a> -->
 
 
 <!--
@@ -26,5 +27,5 @@ Let's connect!
 
 <!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nazianafis&theme=dark&)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=nazianafis&count_private=true&show_icons=true&theme=radical&border_radius=4&layout=compact)
+z![](https://github-readme-stats.vercel.app/api?username=nazianafis&count_private=true&show_icons=true&theme=radical&border_radius=4&layout=compact)
 -->
