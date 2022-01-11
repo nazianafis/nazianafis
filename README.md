@@ -25,7 +25,15 @@ Let's connect!
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=nazianafis&column=7&theme=onedark" /> -->
 <!-- ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=nazianafis) -->
 
-<!-- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nazianafis&theme=dark&)](https://git.io/streak-stats)
-z![](https://github-readme-stats.vercel.app/api?username=nazianafis&count_private=true&show_icons=true&theme=radical&border_radius=4&layout=compact)
+<!--
+Streak | Stats
+--------------------------|-------------------------
+[![Nazia Nafis' GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nazianafis&theme=dark&)](https://git.io/streak-stats) | ![](https://github-readme-stats.vercel.app/api?username=nazianafis&count_private=true&show_icons=true&theme=radical&border_radius=4&layout=compact)
+
+```diff
++ text
+- text
+! text
+@@ text
+```
 -->
