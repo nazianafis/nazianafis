@@ -15,7 +15,6 @@
   <a href="https://www.linkedin.com/in/nazianafis" target="blank"> <img title="My LinkedIn" alt="My linkedIn" src="https://github.com/nazianafis/Resources/blob/main/RM/linkedin.svg" width="40" height="40" /> </a>
   <a href="https://huggingface.co/nn007" target="blank"> <img title="My HuggingFace" alt="My HuggingFace" src="https://github.com/nazianafis/Resources/blob/main/RM/huggingface.svg" width="40" height="40" /> </a> 
   <a href="https://github.com/nazianafis" target="blank"> <img title="My Github" alt="My Github" src="https://github.com/nazianafis/Resources/blob/main/RM/GitHub.png" width="40" height="40" /> </a> 
-  <a href="mailto:official.nazia.nafis@gmail.com" target="blank"> <img title="My Email" alt="My Email" src="https://github.com/nazianafis/Resources/blob/main/RM/gmail.png" width="49" height="37" /> </a>
   <a href="https://www.medium.com/@nazianafis" target="blank"> <img title="My Medium" alt="My Medium" src="https://github.com/nazianafis/Resources/blob/main/RM/medium.png" width="38" height="38" /> </a>
 </div>   
 
