@@ -2,7 +2,9 @@
 
 <a href="https://medium.com/p/86603e5eb551"> <img src='https://miro.medium.com/max/1000/1*Wif1a4KqFHzVI40QOzbQKQ.png'> </a>
 
-<h3 align="center">Hi, I'm Nazia! <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="35px"></h3> 
+  <h3 align="center">Hi, I'm Nazia! 👋 </h3>
+
+<!-- <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="35px"></h3> -->
 
 😎 I’m a Masters student from India, pursuing M.Tech in Computer Science with specialization in AI. <br />
 🤖 I am skilled in, and looking forward to working professionally in the field of Machine Learning. <br />
