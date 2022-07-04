@@ -1,8 +1,8 @@
-<div align="center">
+<div align="left">
 
 <a href="https://medium.com/p/86603e5eb551"> <img src='https://miro.medium.com/max/1000/1*Wif1a4KqFHzVI40QOzbQKQ.png'> </a>
 
-  <h3 align="center">Hi, I'm Nazia! 👋 </h3>
+<h3>Hi, I'm Nazia! 👋 </h3>
 
 <!-- <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="35px"></h3> -->
 
@@ -13,7 +13,7 @@
 
 <h4> Let's connect! </h4>
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/nazianafis" target="blank"> <img title="My LinkedIn" alt="My linkedIn" src="https://github.com/nazianafis/Resources/blob/main/RM/linkedin.svg" width="40" height="40" /> </a>
   <a href="https://huggingface.co/nn007" target="blank"> <img title="My HuggingFace" alt="My HuggingFace" src="https://github.com/nazianafis/Resources/blob/main/RM/huggingface.svg" width="40" height="40" /> </a> 
   <a href="https://github.com/nazianafis" target="blank"> <img title="My Github" alt="My Github" src="https://github.com/nazianafis/Resources/blob/main/RM/GitHub.png" width="40" height="40" /> </a> 
