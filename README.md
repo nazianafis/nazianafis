@@ -1,6 +1,6 @@
 <div align="left">
 
-<a href="https://medium.com/p/86603e5eb551"> <img src='https://miro.medium.com/max/1000/1*Wif1a4KqFHzVI40QOzbQKQ.png'> </a>
+<a href="https://medium.com/p/86603e5eb551"> <img src='https://miro.medium.com/max/1000/1*Wif1a4KqFHzVI40QOzbQKQ.png' width=650> </a>
 
 <h3>Hi, I'm Nazia! 👋 </h3>
 
