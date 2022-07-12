@@ -18,6 +18,7 @@
   <a href="https://huggingface.co/nn007" target="blank"> <img title="My HuggingFace" alt="My HuggingFace" src="https://github.com/nazianafis/Resources/blob/main/RM/huggingface.svg" width="40" height="40" /> </a> 
   <a href="https://github.com/nazianafis" target="blank"> <img title="My Github" alt="My Github" src="https://github.com/nazianafis/Resources/blob/main/RM/GitHub.png" width="40" height="40" /> </a> 
   <a href="https://www.medium.com/@nazianafis" target="blank"> <img title="My Medium" alt="My Medium" src="https://github.com/nazianafis/Resources/blob/main/RM/medium.png" width="38" height="38" /> </a>
+  <a href="https://instagram.com/nazianafis" target="blank"> <img title="My Instagram" alt="My Instagram" src="https://github.com/nazianafis/Resources/blob/main/RM/ig.png" width="40" /></a>
 </div>   
 
 <br>
