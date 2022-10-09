@@ -30,9 +30,10 @@
 <!-- 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=nazianafis&theme=github)
 <img src="https://github-profile-trophy.vercel.app/?username=nazianafis&column=7&theme=onedark" /> 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=nazianafis)
 --> 
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=nazianafis)
+
 
   
  
