@@ -6,10 +6,10 @@
 
 <!-- <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="35px"></h3> -->
 
-😎 Currently, I’m pursuing M.Tech in Computer Science (with specialization in AI). <br />
-🤖 I am skilled in, and looking forward to working professionally in the field of ML/Data Science. <br />
-🎨 Within ML, I'm passionate about Natural Language Processing. <br />
-🔓 I'm also interested in research on interpretability and explainability of ML architectures. 
+😎 I’m pursuing M.Tech in Computer Science with specialization in AI. <br />
+🤖 Within Machine Learning, I'm passionate about Natural Language Processing  <br />
+and creating creative content with AI, among other things. <br />
+🔓 I'm also interested in research on AI interpretability and explainability. 
 
 <h4> Let's connect! </h4>
 
