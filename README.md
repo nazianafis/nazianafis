@@ -26,7 +26,7 @@ and the domain of AI creativity, among other things. <br />
 ![My Stats](https://github-readme-stats.vercel.app/api?username=nazianafis&custom_title=My%20GitHub%20Stats&count_private=true&show_icons=true&theme=radical&border_radius=4&layout=compact)
 
 </div>
-
+ 
 <!-- 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=nazianafis&theme=github)
 <img src="https://github-profile-trophy.vercel.app/?username=nazianafis&column=7&theme=onedark" /> 
