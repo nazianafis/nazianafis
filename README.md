@@ -8,7 +8,7 @@
 
 😎 I’m pursuing M.Tech in Computer Science with specialization in AI. <br />
 🤖 Within Machine Learning, I'm passionate about Natural Language Processing  <br />
-and the domain of AI creativity, among other things. <br />
+and the domain of AI creativity. <br />
 🔓 I'm also interested in research on AI interpretability and explainability. 
 
 <h4> Let's connect! </h4>
