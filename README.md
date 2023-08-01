@@ -1,12 +1,12 @@
 <div align="left">
 
-<a href="https://medium.com/p/86603e5eb551"> <img src='https://miro.medium.com/max/1000/1*Wif1a4KqFHzVI40QOzbQKQ.png' width=650> </a>
+<!-- <a href="https://medium.com/p/86603e5eb551"> <img src='https://miro.medium.com/max/1000/1*Wif1a4KqFHzVI40QOzbQKQ.png' width=650> </a> -->
 
 <h3>Hi, I'm Nazia! 👋 </h3>
 
 <!-- <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="35px"></h3> -->
 
-😎 I’m pursuing M.Tech in Computer Science with a specialization in AI. <br />
+😎 I’m pursuing M.Tech in Computer Science with a specialization in Machine Learning. <br />
 🤖 Within Machine Learning, I'm passionate about Natural Language Processing  <br />
 and the domain of AI creativity. <br />
 🔓 I'm also interested in research on AI interpretability and explainability. 
@@ -18,6 +18,7 @@ and the domain of AI creativity. <br />
   <a href="https://huggingface.co/nazianafis" target="blank"> <img title="My HuggingFace" alt="My HuggingFace" src="https://github.com/nazianafis/Resources/blob/main/RM/huggingface.svg" width="40" height="40" /> </a> 
   <a href="https://github.com/nazianafis" target="blank"> <img title="My Github" alt="My Github" src="https://github.com/nazianafis/Resources/blob/main/RM/GitHub.png" width="40" height="40" /> </a>
   <a href="https://www.medium.com/@nazianafis" target="blank"> <img title="My Medium" alt="My Medium" src="https://github.com/nazianafis/Resources/blob/main/RM/medium.png" width="38" height="38" /> </a>
+  <a href="https://www.instagram.com/nazianafis" target="blank"> <img title="My Instagram" alt="My Instagram" src="https://github.com/nazianafis/Resources/blob/main/RM/ig.png" width="40" height="40" /> </a>
 </div>   
 
 <br>
