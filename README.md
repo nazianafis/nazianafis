@@ -6,7 +6,7 @@
 
 <!-- <img src="https://github.com/kogisin/kogisin/blob/main/gifs/hi.gif" width="35px"></h3> -->
 
-😎 I’m pursuing M.Tech in Computer Science with specialization in AI. <br />
+😎 I’m pursuing M.Tech in Computer Science with a specialization in AI. <br />
 🤖 Within Machine Learning, I'm passionate about Natural Language Processing  <br />
 and the domain of AI creativity. <br />
 🔓 I'm also interested in research on AI interpretability and explainability. 
@@ -22,15 +22,18 @@ and the domain of AI creativity. <br />
 
 <br>
 
+<!-- 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=nazianafis&custom_title=My%20GitHub%20Stats&count_private=true&show_icons=true&theme=radical&border_radius=4&layout=compact)
+-->
 
 </div>
  
 <!-- 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=nazianafis&theme=github)
 <img src="https://github-profile-trophy.vercel.app/?username=nazianafis&column=7&theme=onedark" /> 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=nazianafis)
 -->
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=nazianafis)
 
 
 
